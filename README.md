@@ -12,7 +12,7 @@ tools, scripts, experiments... all public in my [repositories](https://github.co
 
 <div align="center">
   <a href="https://github.com/Kyrstears?tab=repositories"><img src="https://img.shields.io/badge/my_stuff-look_around-101820?style=for-the-badge&logo=github" alt="repos" /></a>
-  <img src="https://img.shields.io/badge/discord-%40alv__v-101820?style=for-the-badge&logo=discord&logoColor=8ECAE6" alt="discord" />
+  <img src="https://img.shields.io/badge/discord-%40alv__v-101820?style=flat-square&logo=discord&logoColor=8ECAE6" alt="discord" />
 </div>
 
 <br />
