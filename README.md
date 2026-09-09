@@ -17,7 +17,7 @@ tools, scripts, experiments... all public in my [repositories](https://github.co
 <br />
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrstears&layout=compact&hide_border=true&bg_color=101820&title_color=8ECAE6&text_color=DAE5EC" alt="langs" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kyrstears&layout=compact&hide_border=true&langs_count=3&bg_color=101820&title_color=8ECAE6&text_color=DAE5EC" alt="langs" />
   <img height="165" src="https://streak-stats.demolab.com/?user=Kyrstears&hide_border=true&background=101820&ring=8ECAE6&fire=8ECAE6&currStreakNum=8ECAE6&sideNums=DAE5EC&currStreakLabel=8ECAE6&sideLabels=8ECAE6&dates=8A9DAA" alt="streak" />
 </div>
 
