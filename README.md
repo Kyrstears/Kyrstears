@@ -4,7 +4,7 @@
 
 <div align="center">
 
-tools, scripts, experiments... all public in my [repositories](https://github.com/Kyrstears?tab=repositories). look around if u want
+check out things public in my [repositories](https://github.com/Kyrstears?tab=repositories).
 
 </div>
 
@@ -44,7 +44,7 @@ tools, scripts, experiments... all public in my [repositories](https://github.co
 
 <div align="center">
 
-glad u stopped by
+😭
 
 <br />
 
