@@ -4,7 +4,7 @@
 
 <div align="center">
 
-check out things public in my [repositories](https://github.com/Kyrstears?tab=repositories).
+check out things in my [repositories](https://github.com/Kyrstears?tab=repositories).
 
 </div>
 
